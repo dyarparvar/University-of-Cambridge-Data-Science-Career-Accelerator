@@ -1,1 +1,3 @@
-# University-of-Cambridge-Data-Science-Career-Accelerator
+# Data Science with Machine Learning & AI Career Accelerator
+
+https://onlinecareeraccelerators.pace.cam.ac.uk/cambridge-data-science-career-accelerator
